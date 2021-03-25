@@ -15,3 +15,5 @@ A little bit more info about this:
 
 Extra Credit: append C:\Windows\explorer.exe to the beginning of the target so you can pin it to your taskbar. It will look like this:
 C:\Windows\explorer.exe C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -command "& 'C:\Users\rap10\Documents\Powershell scripts\Rocket League setup.ps1'
+
+Helps me out :)  https://www.buymeacoffee.com/theemrp
