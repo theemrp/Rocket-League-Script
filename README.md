@@ -5,6 +5,8 @@ I felt super lazy and wanted to write a script to open bakkesmod and rl at the s
 
 This script will start BM and RL with a single click!
 
+NOTE: YOUR FILE LOCATION OF BAKKESMOD AND RL MIGHT BE DIFFERENT. UPDATE ACCORDINGLY TO YOUR SPECIFIC MACHINE
+
 A little bit more info about this:
 1. You'll have to make sure you have your permissions set correctly. You can find how to do that here: https://www.youtube.com/watch?v=iDHKih88yOE
 2. You will also need to create a shortcut and use powershell to execute it with a single click.
